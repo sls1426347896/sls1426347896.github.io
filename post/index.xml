@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Save/Load的博客</title>
-    <link>https://sls1426347896.github.io/post/</link>
-    <description>Recent content in Posts on Save/Load的博客</description>
+    <title>Posts on Sunlas的博客</title>
+    <link>https://sunlas.github.io/post/</link>
+    <description>Recent content in Posts on Sunlas的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 08 Jul 2020 00:24:34 +0800</lastBuildDate>
     
-	<atom:link href="https://sls1426347896.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sunlas.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Java</title>
-      <link>https://sls1426347896.github.io/post/java/</link>
+      <link>https://sunlas.github.io/post/java/</link>
       <pubDate>Wed, 08 Jul 2020 00:24:34 +0800</pubDate>
       
-      <guid>https://sls1426347896.github.io/post/java/</guid>
+      <guid>https://sunlas.github.io/post/java/</guid>
       <description>面试知识点汇集 </description>
     </item>
     
     <item>
       <title>Markdown练手</title>
-      <link>https://sls1426347896.github.io/post/blog/</link>
+      <link>https://sunlas.github.io/post/blog/</link>
       <pubDate>Tue, 07 Jul 2020 22:11:51 +0800</pubDate>
       
-      <guid>https://sls1426347896.github.io/post/blog/</guid>
+      <guid>https://sunlas.github.io/post/blog/</guid>
       <description>一级标题 二级标题 三级标题 四级标题 五级标题 六级标题 总共六级标题
  这是引用
   这也是引用

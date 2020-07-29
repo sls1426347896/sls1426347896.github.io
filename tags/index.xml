@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Save/Load的博客</title>
-    <link>https://sls1426347896.github.io/tags/</link>
-    <description>Recent content in Tags on Save/Load的博客</description>
+    <title>Tags on Sunlas的博客</title>
+    <link>https://sunlas.github.io/tags/</link>
+    <description>Recent content in Tags on Sunlas的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="https://sls1426347896.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sunlas.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
